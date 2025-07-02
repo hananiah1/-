@@ -1,0 +1,47 @@
+</html>
+<!TYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>נודד נופים מדהימים</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    background-color: #f0f4f8;
+    color: #333;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #2c3e50;
+  }
+  p {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .gallery img {
+    width: calc(50% - 15px);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    object-fit: cover;
+  }
+</style>
+</head>
+<body>
+  <h1>נודד נופים מדהימים</h1>
+  <p>הלב נודד ומחפש את הלא נודע, עובר בין הרים ונהרות, שדות ויערות, מחפש את הרגעים שהטבע חושף, למי שמוכן לראות באמת.</p>
+  <p>אני הולך בעקבות הנוף, בעקבות הנופים. בכל שביל קטן מסתתר סיפור או משל, בכל פסיעה – נשימה מחפש עולם חדש.</p>
+  <p>לכאן מגיעים רק להרגיש את הרוח שבפנים, את הלחש של העצים, את שירת הציפורים.</p>
